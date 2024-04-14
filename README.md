@@ -1,6 +1,6 @@
 <h1 align="center"> Проект "Анализ причин оттока клиентов Gectaro - облачного сервиса для автоматизации управления строительством и ремонтом."</h1>
 
-<p align="center"><img src="https://top-fon.com/uploads/posts/2023-01/1674856849_top-fon-com-p-fon-dlya-prezentatsii-shopping-159.jpg" width="600" height="400" /></p>
+<p align="center"><img src="https://github.com/Sairus74/Gectaro/blob/main/maxresdefault.jpg" width="600" height="400" /></p>
 
 <div style="text-align: justify">
 
