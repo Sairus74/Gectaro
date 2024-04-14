@@ -1,4 +1,4 @@
-<h1 align="center"> Проект "Анализ причин оттока клиентов Gectaro - облачного сервиса для автоматизации управления строительством и ремонтом."</h1>
+<h1 align="center"> Проект "Анализ причин оттока клиентов Gectaro - облачного сервиса для автоматизации управления строительством и ремонтом"</h1>
 
 <p align="center"><img src="https://github.com/Sairus74/Gectaro/blob/main/maxresdefault.jpg" width="600" height="400" /></p>
 
